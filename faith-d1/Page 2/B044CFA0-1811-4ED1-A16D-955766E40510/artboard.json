@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 1999,
     "width": 1440,
-    "x": 11135,
-    "y": -502
+    "x": 7863,
+    "y": -451
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -92,6 +92,10 @@
     {
       "class": "bitmap",
       "id": "C1B83C28-810F-4ED9-92C2-00759AEB865F"
+    },
+    {
+      "class": "text",
+      "id": "8C5C8C7D-E314-4DD5-AB39-9C3F0FEE49F0"
     }
   ],
   "layout": {

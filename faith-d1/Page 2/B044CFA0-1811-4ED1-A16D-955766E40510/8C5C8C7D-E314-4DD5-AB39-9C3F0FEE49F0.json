@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.8790007829666138,
+            "green": 0.06114692240953445,
+            "red": 0.7398750185966492
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Regular",
-              "size": 24
+              "size": 35
             }
           },
           "kerning": 0,
@@ -29,20 +29,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 41,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "How our faith in Jesus motivates our work"
+    "string": "more is more"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F2BAC50E-126E-4A37-B930-BF938C8C6393",
+  "do_objectID": "8C5C8C7D-E314-4DD5-AB39-9C3F0FEE49F0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5DBC72A6-D4CC-4A46-8FBD-F4E3A04E7FE7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "97531DBD-5D5E-46E7-A45D-8A913AE974AD",
-    "height": 29,
-    "width": 447,
-    "x": 34,
-    "y": 113
+    "height": 42,
+    "width": 202,
+    "x": 296,
+    "y": 671
   },
-  "glyphBounds": "{{2, 6}, {445, 19}}",
+  "glyphBounds": "{{2, 9}, {198, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "How our faith in Jes",
+  "name": "more is more",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -109,7 +107,6 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "78BC8BCB-D90E-444B-9CE6-70BB355652EA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,20 +118,19 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3576C7EC-9876-4C55-8F95-170C3515D6CD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.8790007829666138,
+          "green": 0.06114692240953445,
+          "red": 0.7398750185966492
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Regular",
-            "size": 24
+            "size": 35
           }
         },
         "kerning": 0,
@@ -150,5 +146,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
